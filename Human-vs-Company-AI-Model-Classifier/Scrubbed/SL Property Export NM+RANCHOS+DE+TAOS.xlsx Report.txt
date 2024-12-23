@@ -1,0 +1,10 @@
+---------------------------- Summary Report -----------------------------
+Original Number Of Records                      444
+Missing Data Dropped (%)                       0.9%
+Number Of Missing Data                            4
+Duplicated Data Dropped (%)                   13.4%
+Number Of Duplicated Data                        59
+Human Names Remaining                           300
+Company Names Classified                         81
+
+-------------------------------------------------------------------------
